@@ -1,2 +1,2 @@
 <h1>실습기간 : 12/25 ~ 1/15 </h1>
- <img width="1000" alt="책표지" src="https://github.com/dregun1/-/assets/122992960/7577c2b4-42d6-4ad1-95e6-5dd0ad475f0f">
+![스프링부트 쇼핑몰 프로젝트 with JPA](https://github.com/user-attachments/assets/e3ba2a86-964d-4a21-b7f0-b50ce5f7b4b1)
